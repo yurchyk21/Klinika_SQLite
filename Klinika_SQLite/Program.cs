@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
-
+using Klinika_SQLite.Entity;
 
 namespace Klinika_SQLite
 {
